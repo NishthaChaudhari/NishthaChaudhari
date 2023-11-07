@@ -6,9 +6,9 @@
   
 
 
-  ![](https://komarev.com/ghpvc/?username=HardeepPatel&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=NishthaChaudhari&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
+### Hello   <img src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/hello.gif" width="120px">
   
 :heart: Programming | :black_heart: Tennis | :blue_heart: Music
   
