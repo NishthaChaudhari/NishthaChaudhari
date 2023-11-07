@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/1.png">
+  <img src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/2.png">
 </p>
   
 .
@@ -10,32 +10,32 @@
 
 ### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
   
-:heart: Programming | :black_heart: Cricket | :blue_heart: Football
+:heart: Programming | :black_heart: Tennis | :blue_heart: Music
   
 Computer Engineering (2020-2024). I love ML and trying to learn more about Full Stack Web Development and Quantum Computing. 
 
-- :hammer_and_wrench: I’m currently working on Quantum Machine Learning <img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/glitch-crypto.gif" width="200" height="170">
-- :office: Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, IIT-Roorkee
-- :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
+- :hammer_and_wrench: I’m currently working on Quantum Machine Learning <img align="right" src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/animegirl.gif" width="200" height="170">
+- :office: Product Management Intern @ Infibeam Avenues | Ex-Research Intern @ISRO, Zydus Hospital
+- :books: I’m currently learning Computer Vision | Web development | Machine Learning | IoT
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :question: Ask me about anything. I will try to help you as much as I can.
-- :microphone: Quote: "Life is a story which you tell yourself, so atleast try make it worth telling."
+- :microphone: Quote: "Everyone thinks they're looking for money or success, but what they're really looking for is identity."
 - :car: How to reach me:
 
-| [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/icons8-github-94.png" alt="github logo" width="34">](https://github.com/HardeepPatel) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/hardeep-patel/) |  [<img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/gmail.jpeg" alt="gmail logo" width="24">](hardeeppatel79967@gmail.com)
+| [<img src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/icons8-github-94.png" alt="github logo" width="34">](https://github.com/NishthaChaudhari/) |  [<img src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/nishtha-chaudhari/) |  [<img src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/gmail.jpeg" alt="gmail logo" width="24">](nishtha2206@gmail.com)
 |---|---|---|
 
 ----
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HardeepPatel)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NishthaChaudhari)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-![HardeepPatel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardeepPatel&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/HardeepPatel/HardeepPatel/blob/main/llorando.gif" width="300" height="255">
+![NishthaChaudhari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishthaChaudhari&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/mess.gif" width="300" height="255">
  
 -------
 
@@ -51,9 +51,9 @@ No Activity tracked this Week
   
 **What I love**
 
-| <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/coding.gif width="110" height="100"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/kohli.gif width="110" height="100"> | <img src=https://github.com/HardeepPatel/HardeepPatel/blob/main/ronaldo-sigma-ronaldo.gif width="110" height="100"> | 
+| <img src=https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/coding.gif width="110" height="100"> | <img src=p｣blico-concierto.gif width="110" height="100"> | <img src=https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/waking-tennis.gif width="110" height="100"> | 
 | :---: | :---: | :---: |
-| <b>Coding</b> | <b>Cricket</b> | <b>Football</b> |
+| <b>Coding</b> | <b>Concert</b> | <b>Tennis</b> |
 
   
 **Skills** 
@@ -64,5 +64,5 @@ No Activity tracked this Week
 
   
 <p align="center">
- <img src="https://github.com/HardeepPatel/HardeepPatel/blob/main/sword-art-online-sao.gif">
+ <img src="https://github.com/NishthaChaudhari/NishthaChaudhari/blob/main/rolling.gif">
 </p>
